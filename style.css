@@ -1,9 +1,10 @@
 body {
     font-family: -apple-system, Helvetica, Arial, sans-serif;
+    color: #595959;
 }
 
 h2 {
-    color: orange;
+    color: black;
     text-align: center;
 }
 
