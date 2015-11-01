@@ -1,13 +1,13 @@
 body {
     font-family: -apple-system, Helvetica, Arial, sans-serif;
     color: #595959;
+    text-align: center;
 }
 
 h2 {
     color: black;
-    text-align: center;
 }
 
 p {
-    font-size: 20px;
+    font-size: 18px;
 }
