@@ -12,6 +12,15 @@ p {
     font-size: 18px;
 }
 
+.overlay {
+   background:transparent; 
+   position:relative; 
+   width:600px;
+   height:400px; /* your iframe height */
+   top:400px;  /* your iframe height */
+   margin-top:-400px;  /* your iframe height */
+}
+
 .maps iframe{
-    pointer-events: none;
+    pointer-events: auto;
 }
