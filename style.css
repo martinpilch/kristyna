@@ -11,6 +11,7 @@ h3, h2, h1 {
 p {
     font-size: 18px;
     width: 800px;
+    text-align: center;
 }
 
 .overlay {
